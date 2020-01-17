@@ -8,9 +8,22 @@ maria, hoje sua esposa, ainda faz aquele café com pão de queijo nas tardes de
 domingo. Também né! Sendo a boa mineira que é, nunca esquece seu famoso
 pão de queijo.
 Não canso de ouvir a Maria:
-"Joooooooooãooooooo, o café tá prontinho aqui. Veeemm"!
+"Joooooooooãoooooooooooooooooooooooooooo   , o café tá prontinho aqui. Veeemm"!
 `;
 
+const arquivos = [
+  'Atenção.jpg',
+  'FOTO.jpeg',
+  'Meu gatinho.jpg',
+  'Meu gatinho.JPG',
+  'Meu gatinho.JPEG',
+  'Meu gatinho.JPeeEEEEeeeeeeeeeeeeeeeeeeeeeeeeEEEEEEEEEEG',
+  'Marido.png',
+  'lista de compras.txt',
+];
+
+
 module.exports = {
-  texto
+  texto,
+  arquivos
 }
