@@ -28,6 +28,9 @@ Os CPFs são:
 
 
   963.987.321-00
+
+  963.987.32a.00 (NÃO VÁLIDO)
+  963.987.32-00 (NÃO VÁLIDO)
 `;
 
 const ips = `
