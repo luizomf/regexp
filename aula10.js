@@ -2,7 +2,7 @@
 const palavrasRegEx = /([\wÀ-ú]+)/g
 
 // Não números
-const naoNumerosRegEx = /\D/
+const naoNumerosRegEx = /\D/g
 
 // Valida IP
 const ipRegExp = /((25[0-5]|2[0-4][0-9]|1\d{2}|[1-9]\d|\d)(\.)){3}(25[0-5]|2[0-4][0-9]|1\d{2}|[1-9]\d|\d)/g;
