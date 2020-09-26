@@ -1,7 +1,7 @@
 const { texto } = require('./base');
 const regExp1 = /João|Maria/gi;
 
-// (...( () ) )(...)(...)  $1 $2 $3
+// (...( () ) )(...)(...)  $1 $2 $3 $4 $5
   
 // console.log(texto);
 // console.log(texto.match(regExp1));
